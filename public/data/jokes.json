@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do programmers prefer dark mode?",
+    "punchline": "Because light attracts bugs!",
+    "rating": 3.7,
+    "submittedBy": "user1"
+  },
+  {
+    "id": 2,
+    "type": "programming",
+    "category": "programming",
+    "setup": "How many programmers does it take to change a light bulb?",
+    "punchline": "None, that's a hardware problem!",
+    "rating": 3.6,
+    "submittedBy": "user2"
+  },
+  {
+    "id": 3,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer quit his job?",
+    "punchline": "Because he didn't get arrays!",
+    "rating": 4.2,
+    "submittedBy": "user3"
+  },
+  {
+    "id": 4,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why was the JavaScript developer sad?",
+    "punchline": "Because he didn't Node how to Express himself!",
+    "rating": 3.9,
+    "submittedBy": "user4"
+  },
+  {
+    "id": 5,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is a computer's favourite snack?",
+    "punchline": "Microchips!",
+    "rating": 4.9,
+    "submittedBy": "user5"
+  },
+  {
+    "id": 6,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do Java developers wear glasses?",
+    "punchline": "Because they don't C#!",
+    "rating": 4.8,
+    "submittedBy": "user6"
+  },
+  {
+    "id": 7,
+    "type": "programming",
+    "category": "programming",
+    "setup": "A SQL query walks into a bar and sees two tables...",
+    "punchline": "Can I join you?",
+    "rating": 3.9,
+    "submittedBy": "user7"
+  },
+  {
+    "id": 8,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What did the senior dev say to the junior dev?",
+    "punchline": "It works on my machine — ship the machine!",
+    "rating": 3.9,
+    "submittedBy": "user8"
+  },
+  {
+    "id": 9,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the programmer go broke?",
+    "punchline": "Because he used up all his cache!",
+    "rating": 3.2,
+    "submittedBy": "user9"
+  },
+  {
+    "id": 10,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is the object-oriented way to become wealthy?",
+    "punchline": "Inheritance!",
+    "rating": 4,
+    "submittedBy": "user10"
+  },
+  {
+    "id": 11,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer go to therapy?",
+    "punchline": "He had too many unresolved issues!",
+    "rating": 3.7,
+    "submittedBy": "user11"
+  },
+  {
+    "id": 12,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why is Python the best snake?",
+    "punchline": "Because it has no bugs... only features!",
+    "rating": 3.8,
+    "submittedBy": "user12"
+  },
+  {
+    "id": 13,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What do you call a developer with no bugs?",
+    "punchline": "A liar!",
+    "rating": 3.3,
+    "submittedBy": "user13"
+  },
+  {
+    "id": 14,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the coder break up with the internet?",
+    "punchline": "Because there were too many connections!",
+    "rating": 3.7,
+    "submittedBy": "user14"
+  },
+  {
+    "id": 15,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What do you call 8 hobbits?",
+    "punchline": "A hobbyte!",
+    "rating": 3.2,
+    "submittedBy": "user15"
+  },
+  {
+    "id": 16,
+    "type": "programming",
+    "category": "programming",
+    "setup": "How do you comfort a JavaScript bug?",
+    "punchline": "You console it!",
+    "rating": 4.9,
+    "submittedBy": "user16"
+  },
+  {
+    "id": 17,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the programmer hate nature?",
+    "punchline": "Because it had too many bugs!",
+    "rating": 4.6,
+    "submittedBy": "user17"
+  },
+  {
+    "id": 18,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What did the HTML tag say to the other HTML tag?",
+    "punchline": "You complete me!",
+    "rating": 3.7,
+    "submittedBy": "user18"
+  },
+  {
+    "id": 19,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do programmers always mix up Christmas and Halloween?",
+    "punchline": "Because Oct 31 == Dec 25!",
+    "rating": 4.9,
+    "submittedBy": "user19"
+  },
+  {
+    "id": 20,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why was the function sad?",
+    "punchline": "Because it didn't return anything!",
+    "rating": 3,
+    "submittedBy": "user20"
+  },
+  {
+    "id": 21,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is a programmer's favourite hangout place?",
+    "punchline": "Foo Bar!",
+    "rating": 3.9,
+    "submittedBy": "user21"
+  },
+  {
+    "id": 22,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the React component go to therapy?",
+    "punchline": "Too many state changes!",
+    "rating": 4.6,
+    "submittedBy": "user22"
+  },
+  {
+    "id": 23,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What do you call a sleeping dinosaur?",
+    "punchline": "A dino-snore... null pointer exception!",
+    "rating": 3.3,
+    "submittedBy": "user23"
+  },
+  {
+    "id": 24,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer delete his dating profile?",
+    "punchline": "Because he found the perfect loop!",
+    "rating": 3.5,
+    "submittedBy": "user24"
+  },
+  {
+    "id": 25,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is a computer virus?",
+    "punchline": "A terminal illness!",
+    "rating": 3.5,
+    "submittedBy": "user25"
+  },
+  {
+    "id": 26,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do backend developers make good partners?",
+    "punchline": "They handle all your requests!",
+    "rating": 3.2,
+    "submittedBy": "user26"
+  },
+  {
+    "id": 27,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What happens when a QA engineer walks into a bar?",
+    "punchline": "They order 0 beers, 1 beer, 99999 beers, -1 beers, and a lizard!",
+    "rating": 4.4,
+    "submittedBy": "user27"
+  },
+  {
+    "id": 28,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer go hungry?",
+    "punchline": "Because he ran out of stack overflow!",
+    "rating": 3.3,
+    "submittedBy": "user28"
+  },
+  {
+    "id": 29,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is the most used language in programming?",
+    "punchline": "Profanity!",
+    "rating": 3.5,
+    "submittedBy": "user29"
+  },
+  {
+    "id": 30,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the programmer use dark mode?",
+    "punchline": "So he could write in the dark!",
+    "rating": 4.6,
+    "submittedBy": "user30"
+  },
+  {
+    "id": 31,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why can't you give Elsa a balloon?",
+    "punchline": "Because she'll let it go!",
+    "rating": 4.5,
+    "submittedBy": "user1"
+  },
+  {
+    "id": 32,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call cheese that isn't yours?",
+    "punchline": "Nacho cheese!",
+    "rating": 3.2,
+    "submittedBy": "user2"
+  },
+  {
+    "id": 33,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "He was outstanding in his field!",
+    "rating": 3.4,
+    "submittedBy": "user3"
+  },
+  {
+    "id": 34,
+    "type": "dad",
+    "category": "dad",
+    "setup": "I'm reading a book about anti-gravity.",
+    "punchline": "It's impossible to put down!",
+    "rating": 3.4,
+    "submittedBy": "user4"
+  },
+  {
+    "id": 35,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Did you hear about the mathematician afraid of negative numbers?",
+    "punchline": "He'll stop at nothing to avoid them!",
+    "rating": 3.5,
+    "submittedBy": "user5"
+  },
+  {
+    "id": 36,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a factory that makes okay products?",
+    "punchline": "A satisfactory!",
+    "rating": 4.3,
+    "submittedBy": "user6"
+  },
+  {
+    "id": 37,
+    "type": "dad",
+    "category": "dad",
+    "setup": "I used to hate facial hair...",
+    "punchline": "But then it grew on me!",
+    "rating": 4.5,
+    "submittedBy": "user7"
+  },
+  {
+    "id": 38,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What did the ocean say to the beach?",
+    "punchline": "Nothing, it just waved!",
+    "rating": 3.6,
+    "submittedBy": "user8"
+  },
+  {
+    "id": 39,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a fish without eyes?",
+    "punchline": "A fsh!",
+    "rating": 5,
+    "submittedBy": "user9"
+  },
+  {
+    "id": 40,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why did the bicycle fall over?",
+    "punchline": "Because it was two-tired!",
+    "rating": 4.7,
+    "submittedBy": "user10"
+  },
+  {
+    "id": 41,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer!",
+    "rating": 3.3,
+    "submittedBy": "user11"
+  },
+  {
+    "id": 42,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why can't your nose be 12 inches long?",
+    "punchline": "Because then it would be a foot!",
+    "rating": 3,
+    "submittedBy": "user12"
+  },
+  {
+    "id": 43,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a man with a rubber toe?",
+    "punchline": "Roberto!",
+    "rating": 4.9,
+    "submittedBy": "user13"
+  },
+  {
+    "id": 44,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why did the coffee file a police report?",
+    "punchline": "It got mugged!",
+    "rating": 3.6,
+    "submittedBy": "user14"
+  },
+  {
+    "id": 45,
+    "type": "dad",
+    "category": "dad",
+    "setup": "How do you make a tissue dance?",
+    "punchline": "Put a little boogie in it!",
+    "rating": 4.3,
+    "submittedBy": "user15"
+  },
+  {
+    "id": 46,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An investigator!",
+    "rating": 3.5,
+    "submittedBy": "user16"
+  },
+  {
+    "id": 47,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "They'd crack each other up!",
+    "rating": 4.5,
+    "submittedBy": "user17"
+  },
+  {
+    "id": 48,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a nervous javelin thrower?",
+    "punchline": "Shakespeare!",
+    "rating": 4.3,
+    "submittedBy": "user18"
+  },
+  {
+    "id": 49,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Did you hear about the claustrophobic astronaut?",
+    "punchline": "He just needed a little space!",
+    "rating": 4.1,
+    "submittedBy": "user19"
+  },
+  {
+    "id": 50,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a pig that does karate?",
+    "punchline": "A pork chop!",
+    "rating": 4.5,
+    "submittedBy": "user20"
+  },
+  {
+    "id": 51,
+    "type": "general",
+    "category": "general",
+    "setup": "Why don't scientists trust atoms?",
+    "punchline": "Because they make up everything!",
+    "rating": 3.3,
+    "submittedBy": "user21"
+  },
+  {
+    "id": 52,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you get when you cross a snowman and a vampire?",
+    "punchline": "Frostbite!",
+    "rating": 3.1,
+    "submittedBy": "user22"
+  },
+  {
+    "id": 53,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the math book look so sad?",
+    "punchline": "It had too many problems!",
+    "rating": 5,
+    "submittedBy": "user23"
+  },
+  {
+    "id": 54,
+    "type": "general",
+    "category": "general",
+    "setup": "How do you organise a space party?",
+    "punchline": "You planet!",
+    "rating": 4.1,
+    "submittedBy": "user24"
+  },
+  {
+    "id": 55,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear!",
+    "rating": 3.4,
+    "submittedBy": "user25"
+  },
+  {
+    "id": 56,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the golfer bring extra pants?",
+    "punchline": "In case he got a hole in one!",
+    "rating": 3.5,
+    "submittedBy": "user26"
+  },
+  {
+    "id": 57,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta!",
+    "rating": 3.5,
+    "submittedBy": "user27"
+  },
+  {
+    "id": 58,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the tomato turn red?",
+    "punchline": "Because it saw the salad dressing!",
+    "rating": 4.7,
+    "submittedBy": "user28"
+  },
+  {
+    "id": 59,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a magic dog?",
+    "punchline": "A labracadabrador!",
+    "rating": 3.4,
+    "submittedBy": "user29"
+  },
+  {
+    "id": 60,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the banana go to the doctor?",
+    "punchline": "It wasn't peeling well!",
+    "rating": 4.3,
+    "submittedBy": "user30"
+  },
+  {
+    "id": 61,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a lazy kangaroo?",
+    "punchline": "A pouch potato!",
+    "rating": 4,
+    "submittedBy": "user1"
+  },
+  {
+    "id": 62,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the invisible man turn down the job offer?",
+    "punchline": "He couldn't see himself doing it!",
+    "rating": 3.8,
+    "submittedBy": "user2"
+  },
+  {
+    "id": 63,
+    "type": "general",
+    "category": "general",
+    "setup": "What did one wall say to the other wall?",
+    "punchline": "I'll meet you at the corner!",
+    "rating": 4.8,
+    "submittedBy": "user3"
+  },
+  {
+    "id": 64,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the cookie go to the doctor?",
+    "punchline": "Because it was feeling crumbly!",
+    "rating": 4,
+    "submittedBy": "user4"
+  },
+  {
+    "id": 65,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a shoe made from a banana?",
+    "punchline": "A slipper!",
+    "rating": 3.2,
+    "submittedBy": "user5"
+  },
+  {
+    "id": 66,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the belt get arrested?",
+    "punchline": "For holding up a pair of pants!",
+    "rating": 4.1,
+    "submittedBy": "user6"
+  },
+  {
+    "id": 67,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a dinosaur that crashes their car?",
+    "punchline": "Tyrannosaurus wrecks!",
+    "rating": 4.2,
+    "submittedBy": "user7"
+  },
+  {
+    "id": 68,
+    "type": "general",
+    "category": "general",
+    "setup": "Why don't oysters share?",
+    "punchline": "Because they're shellfish!",
+    "rating": 4.3,
+    "submittedBy": "user8"
+  },
+  {
+    "id": 69,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a cow on a trampoline?",
+    "punchline": "A milkshake!",
+    "rating": 3.2,
+    "submittedBy": "user9"
+  },
+  {
+    "id": 70,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the stadium get hot after the game?",
+    "punchline": "All the fans left!",
+    "rating": 3.9,
+    "submittedBy": "user10"
+  },
+  {
+    "id": 71,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do programmers prefer dark mode? (v2)",
+    "punchline": "Because light attracts bugs!",
+    "rating": 3.4,
+    "submittedBy": "user11"
+  },
+  {
+    "id": 72,
+    "type": "programming",
+    "category": "programming",
+    "setup": "How many programmers does it take to change a light bulb? (v2)",
+    "punchline": "None, that's a hardware problem!",
+    "rating": 4.1,
+    "submittedBy": "user12"
+  },
+  {
+    "id": 73,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer quit his job? (v2)",
+    "punchline": "Because he didn't get arrays!",
+    "rating": 3,
+    "submittedBy": "user13"
+  },
+  {
+    "id": 74,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why was the JavaScript developer sad? (v2)",
+    "punchline": "Because he didn't Node how to Express himself!",
+    "rating": 3.9,
+    "submittedBy": "user14"
+  },
+  {
+    "id": 75,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is a computer's favourite snack? (v2)",
+    "punchline": "Microchips!",
+    "rating": 4.7,
+    "submittedBy": "user15"
+  },
+  {
+    "id": 76,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do Java developers wear glasses? (v2)",
+    "punchline": "Because they don't C#!",
+    "rating": 3.3,
+    "submittedBy": "user16"
+  },
+  {
+    "id": 77,
+    "type": "programming",
+    "category": "programming",
+    "setup": "A SQL query walks into a bar and sees two tables... (v2)",
+    "punchline": "Can I join you?",
+    "rating": 3.4,
+    "submittedBy": "user17"
+  },
+  {
+    "id": 78,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What did the senior dev say to the junior dev? (v2)",
+    "punchline": "It works on my machine — ship the machine!",
+    "rating": 3.8,
+    "submittedBy": "user18"
+  },
+  {
+    "id": 79,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the programmer go broke? (v2)",
+    "punchline": "Because he used up all his cache!",
+    "rating": 4.7,
+    "submittedBy": "user19"
+  },
+  {
+    "id": 80,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is the object-oriented way to become wealthy? (v2)",
+    "punchline": "Inheritance!",
+    "rating": 4.8,
+    "submittedBy": "user20"
+  },
+  {
+    "id": 81,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer go to therapy? (v2)",
+    "punchline": "He had too many unresolved issues!",
+    "rating": 3.1,
+    "submittedBy": "user21"
+  },
+  {
+    "id": 82,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why is Python the best snake? (v2)",
+    "punchline": "Because it has no bugs... only features!",
+    "rating": 4.1,
+    "submittedBy": "user22"
+  },
+  {
+    "id": 83,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What do you call a developer with no bugs? (v2)",
+    "punchline": "A liar!",
+    "rating": 3.4,
+    "submittedBy": "user23"
+  },
+  {
+    "id": 84,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the coder break up with the internet? (v2)",
+    "punchline": "Because there were too many connections!",
+    "rating": 3.5,
+    "submittedBy": "user24"
+  },
+  {
+    "id": 85,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What do you call 8 hobbits? (v2)",
+    "punchline": "A hobbyte!",
+    "rating": 3.7,
+    "submittedBy": "user25"
+  },
+  {
+    "id": 86,
+    "type": "programming",
+    "category": "programming",
+    "setup": "How do you comfort a JavaScript bug? (v2)",
+    "punchline": "You console it!",
+    "rating": 4.9,
+    "submittedBy": "user26"
+  },
+  {
+    "id": 87,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the programmer hate nature? (v2)",
+    "punchline": "Because it had too many bugs!",
+    "rating": 3.8,
+    "submittedBy": "user27"
+  },
+  {
+    "id": 88,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What did the HTML tag say to the other HTML tag? (v2)",
+    "punchline": "You complete me!",
+    "rating": 4.8,
+    "submittedBy": "user28"
+  },
+  {
+    "id": 89,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do programmers always mix up Christmas and Halloween? (v2)",
+    "punchline": "Because Oct 31 == Dec 25!",
+    "rating": 3.2,
+    "submittedBy": "user29"
+  },
+  {
+    "id": 90,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why was the function sad? (v2)",
+    "punchline": "Because it didn't return anything!",
+    "rating": 4,
+    "submittedBy": "user30"
+  },
+  {
+    "id": 91,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is a programmer's favourite hangout place? (v2)",
+    "punchline": "Foo Bar!",
+    "rating": 3.5,
+    "submittedBy": "user1"
+  },
+  {
+    "id": 92,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the React component go to therapy? (v2)",
+    "punchline": "Too many state changes!",
+    "rating": 3.8,
+    "submittedBy": "user2"
+  },
+  {
+    "id": 93,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What do you call a sleeping dinosaur? (v2)",
+    "punchline": "A dino-snore... null pointer exception!",
+    "rating": 3.3,
+    "submittedBy": "user3"
+  },
+  {
+    "id": 94,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer delete his dating profile? (v2)",
+    "punchline": "Because he found the perfect loop!",
+    "rating": 3.9,
+    "submittedBy": "user4"
+  },
+  {
+    "id": 95,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is a computer virus? (v2)",
+    "punchline": "A terminal illness!",
+    "rating": 4.5,
+    "submittedBy": "user5"
+  },
+  {
+    "id": 96,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do backend developers make good partners? (v2)",
+    "punchline": "They handle all your requests!",
+    "rating": 4.3,
+    "submittedBy": "user6"
+  },
+  {
+    "id": 97,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What happens when a QA engineer walks into a bar? (v2)",
+    "punchline": "They order 0 beers, 1 beer, 99999 beers, -1 beers, and a lizard!",
+    "rating": 3.8,
+    "submittedBy": "user7"
+  },
+  {
+    "id": 98,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer go hungry? (v2)",
+    "punchline": "Because he ran out of stack overflow!",
+    "rating": 4.6,
+    "submittedBy": "user8"
+  },
+  {
+    "id": 99,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is the most used language in programming? (v2)",
+    "punchline": "Profanity!",
+    "rating": 3.2,
+    "submittedBy": "user9"
+  },
+  {
+    "id": 100,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the programmer use dark mode? (v2)",
+    "punchline": "So he could write in the dark!",
+    "rating": 4.4,
+    "submittedBy": "user10"
+  },
+  {
+    "id": 101,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why can't you give Elsa a balloon? (v2)",
+    "punchline": "Because she'll let it go!",
+    "rating": 3.4,
+    "submittedBy": "user11"
+  },
+  {
+    "id": 102,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call cheese that isn't yours? (v2)",
+    "punchline": "Nacho cheese!",
+    "rating": 4.5,
+    "submittedBy": "user12"
+  },
+  {
+    "id": 103,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why did the scarecrow win an award? (v2)",
+    "punchline": "He was outstanding in his field!",
+    "rating": 3.7,
+    "submittedBy": "user13"
+  },
+  {
+    "id": 104,
+    "type": "dad",
+    "category": "dad",
+    "setup": "I'm reading a book about anti-gravity. (v2)",
+    "punchline": "It's impossible to put down!",
+    "rating": 4.9,
+    "submittedBy": "user14"
+  },
+  {
+    "id": 105,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Did you hear about the mathematician afraid of negative numbers? (v2)",
+    "punchline": "He'll stop at nothing to avoid them!",
+    "rating": 4,
+    "submittedBy": "user15"
+  },
+  {
+    "id": 106,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a factory that makes okay products? (v2)",
+    "punchline": "A satisfactory!",
+    "rating": 3,
+    "submittedBy": "user16"
+  },
+  {
+    "id": 107,
+    "type": "dad",
+    "category": "dad",
+    "setup": "I used to hate facial hair... (v2)",
+    "punchline": "But then it grew on me!",
+    "rating": 3.4,
+    "submittedBy": "user17"
+  },
+  {
+    "id": 108,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What did the ocean say to the beach? (v2)",
+    "punchline": "Nothing, it just waved!",
+    "rating": 3.4,
+    "submittedBy": "user18"
+  },
+  {
+    "id": 109,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a fish without eyes? (v2)",
+    "punchline": "A fsh!",
+    "rating": 3.7,
+    "submittedBy": "user19"
+  },
+  {
+    "id": 110,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why did the bicycle fall over? (v2)",
+    "punchline": "Because it was two-tired!",
+    "rating": 4.4,
+    "submittedBy": "user20"
+  },
+  {
+    "id": 111,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a sleeping bull? (v2)",
+    "punchline": "A bulldozer!",
+    "rating": 4.2,
+    "submittedBy": "user21"
+  },
+  {
+    "id": 112,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why can't your nose be 12 inches long? (v2)",
+    "punchline": "Because then it would be a foot!",
+    "rating": 5,
+    "submittedBy": "user22"
+  },
+  {
+    "id": 113,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a man with a rubber toe? (v2)",
+    "punchline": "Roberto!",
+    "rating": 3.2,
+    "submittedBy": "user23"
+  },
+  {
+    "id": 114,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why did the coffee file a police report? (v2)",
+    "punchline": "It got mugged!",
+    "rating": 3.1,
+    "submittedBy": "user24"
+  },
+  {
+    "id": 115,
+    "type": "dad",
+    "category": "dad",
+    "setup": "How do you make a tissue dance? (v2)",
+    "punchline": "Put a little boogie in it!",
+    "rating": 4.7,
+    "submittedBy": "user25"
+  },
+  {
+    "id": 116,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call an alligator in a vest? (v2)",
+    "punchline": "An investigator!",
+    "rating": 3.1,
+    "submittedBy": "user26"
+  },
+  {
+    "id": 117,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why don't eggs tell jokes? (v2)",
+    "punchline": "They'd crack each other up!",
+    "rating": 3.4,
+    "submittedBy": "user27"
+  },
+  {
+    "id": 118,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a nervous javelin thrower? (v2)",
+    "punchline": "Shakespeare!",
+    "rating": 4.7,
+    "submittedBy": "user28"
+  },
+  {
+    "id": 119,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Did you hear about the claustrophobic astronaut? (v2)",
+    "punchline": "He just needed a little space!",
+    "rating": 3.5,
+    "submittedBy": "user29"
+  },
+  {
+    "id": 120,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a pig that does karate? (v2)",
+    "punchline": "A pork chop!",
+    "rating": 3.4,
+    "submittedBy": "user30"
+  },
+  {
+    "id": 121,
+    "type": "general",
+    "category": "general",
+    "setup": "Why don't scientists trust atoms? (v2)",
+    "punchline": "Because they make up everything!",
+    "rating": 4.6,
+    "submittedBy": "user1"
+  },
+  {
+    "id": 122,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you get when you cross a snowman and a vampire? (v2)",
+    "punchline": "Frostbite!",
+    "rating": 4.5,
+    "submittedBy": "user2"
+  },
+  {
+    "id": 123,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the math book look so sad? (v2)",
+    "punchline": "It had too many problems!",
+    "rating": 4,
+    "submittedBy": "user3"
+  },
+  {
+    "id": 124,
+    "type": "general",
+    "category": "general",
+    "setup": "How do you organise a space party? (v2)",
+    "punchline": "You planet!",
+    "rating": 4,
+    "submittedBy": "user4"
+  },
+  {
+    "id": 125,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a bear with no teeth? (v2)",
+    "punchline": "A gummy bear!",
+    "rating": 4.9,
+    "submittedBy": "user5"
+  },
+  {
+    "id": 126,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the golfer bring extra pants? (v2)",
+    "punchline": "In case he got a hole in one!",
+    "rating": 4.4,
+    "submittedBy": "user6"
+  },
+  {
+    "id": 127,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a fake noodle? (v2)",
+    "punchline": "An impasta!",
+    "rating": 3.3,
+    "submittedBy": "user7"
+  },
+  {
+    "id": 128,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the tomato turn red? (v2)",
+    "punchline": "Because it saw the salad dressing!",
+    "rating": 4,
+    "submittedBy": "user8"
+  },
+  {
+    "id": 129,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a magic dog? (v2)",
+    "punchline": "A labracadabrador!",
+    "rating": 4.1,
+    "submittedBy": "user9"
+  },
+  {
+    "id": 130,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the banana go to the doctor? (v2)",
+    "punchline": "It wasn't peeling well!",
+    "rating": 4.8,
+    "submittedBy": "user10"
+  },
+  {
+    "id": 131,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a lazy kangaroo? (v2)",
+    "punchline": "A pouch potato!",
+    "rating": 3,
+    "submittedBy": "user11"
+  },
+  {
+    "id": 132,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the invisible man turn down the job offer? (v2)",
+    "punchline": "He couldn't see himself doing it!",
+    "rating": 3.2,
+    "submittedBy": "user12"
+  },
+  {
+    "id": 133,
+    "type": "general",
+    "category": "general",
+    "setup": "What did one wall say to the other wall? (v2)",
+    "punchline": "I'll meet you at the corner!",
+    "rating": 3.9,
+    "submittedBy": "user13"
+  },
+  {
+    "id": 134,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the cookie go to the doctor? (v2)",
+    "punchline": "Because it was feeling crumbly!",
+    "rating": 4.6,
+    "submittedBy": "user14"
+  },
+  {
+    "id": 135,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a shoe made from a banana? (v2)",
+    "punchline": "A slipper!",
+    "rating": 3.9,
+    "submittedBy": "user15"
+  },
+  {
+    "id": 136,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the belt get arrested? (v2)",
+    "punchline": "For holding up a pair of pants!",
+    "rating": 4.5,
+    "submittedBy": "user16"
+  },
+  {
+    "id": 137,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a dinosaur that crashes their car? (v2)",
+    "punchline": "Tyrannosaurus wrecks!",
+    "rating": 3.3,
+    "submittedBy": "user17"
+  },
+  {
+    "id": 138,
+    "type": "general",
+    "category": "general",
+    "setup": "Why don't oysters share? (v2)",
+    "punchline": "Because they're shellfish!",
+    "rating": 3.1,
+    "submittedBy": "user18"
+  },
+  {
+    "id": 139,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a cow on a trampoline? (v2)",
+    "punchline": "A milkshake!",
+    "rating": 3.3,
+    "submittedBy": "user19"
+  },
+  {
+    "id": 140,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the stadium get hot after the game? (v2)",
+    "punchline": "All the fans left!",
+    "rating": 3.4,
+    "submittedBy": "user20"
+  },
+  {
+    "id": 141,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do programmers prefer dark mode? (v3)",
+    "punchline": "Because light attracts bugs!",
+    "rating": 4.9,
+    "submittedBy": "user21"
+  },
+  {
+    "id": 142,
+    "type": "programming",
+    "category": "programming",
+    "setup": "How many programmers does it take to change a light bulb? (v3)",
+    "punchline": "None, that's a hardware problem!",
+    "rating": 4.6,
+    "submittedBy": "user22"
+  },
+  {
+    "id": 143,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer quit his job? (v3)",
+    "punchline": "Because he didn't get arrays!",
+    "rating": 4.4,
+    "submittedBy": "user23"
+  },
+  {
+    "id": 144,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why was the JavaScript developer sad? (v3)",
+    "punchline": "Because he didn't Node how to Express himself!",
+    "rating": 3.3,
+    "submittedBy": "user24"
+  },
+  {
+    "id": 145,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is a computer's favourite snack? (v3)",
+    "punchline": "Microchips!",
+    "rating": 4.8,
+    "submittedBy": "user25"
+  },
+  {
+    "id": 146,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do Java developers wear glasses? (v3)",
+    "punchline": "Because they don't C#!",
+    "rating": 3.4,
+    "submittedBy": "user26"
+  },
+  {
+    "id": 147,
+    "type": "programming",
+    "category": "programming",
+    "setup": "A SQL query walks into a bar and sees two tables... (v3)",
+    "punchline": "Can I join you?",
+    "rating": 4.9,
+    "submittedBy": "user27"
+  },
+  {
+    "id": 148,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What did the senior dev say to the junior dev? (v3)",
+    "punchline": "It works on my machine — ship the machine!",
+    "rating": 3.7,
+    "submittedBy": "user28"
+  },
+  {
+    "id": 149,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the programmer go broke? (v3)",
+    "punchline": "Because he used up all his cache!",
+    "rating": 4.7,
+    "submittedBy": "user29"
+  },
+  {
+    "id": 150,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is the object-oriented way to become wealthy? (v3)",
+    "punchline": "Inheritance!",
+    "rating": 4.8,
+    "submittedBy": "user30"
+  },
+  {
+    "id": 151,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer go to therapy? (v3)",
+    "punchline": "He had too many unresolved issues!",
+    "rating": 4.5,
+    "submittedBy": "user1"
+  },
+  {
+    "id": 152,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why is Python the best snake? (v3)",
+    "punchline": "Because it has no bugs... only features!",
+    "rating": 3.7,
+    "submittedBy": "user2"
+  },
+  {
+    "id": 153,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What do you call a developer with no bugs? (v3)",
+    "punchline": "A liar!",
+    "rating": 4.7,
+    "submittedBy": "user3"
+  },
+  {
+    "id": 154,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the coder break up with the internet? (v3)",
+    "punchline": "Because there were too many connections!",
+    "rating": 4.9,
+    "submittedBy": "user4"
+  },
+  {
+    "id": 155,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What do you call 8 hobbits? (v3)",
+    "punchline": "A hobbyte!",
+    "rating": 4.5,
+    "submittedBy": "user5"
+  },
+  {
+    "id": 156,
+    "type": "programming",
+    "category": "programming",
+    "setup": "How do you comfort a JavaScript bug? (v3)",
+    "punchline": "You console it!",
+    "rating": 3.1,
+    "submittedBy": "user6"
+  },
+  {
+    "id": 157,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the programmer hate nature? (v3)",
+    "punchline": "Because it had too many bugs!",
+    "rating": 4.1,
+    "submittedBy": "user7"
+  },
+  {
+    "id": 158,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What did the HTML tag say to the other HTML tag? (v3)",
+    "punchline": "You complete me!",
+    "rating": 3.7,
+    "submittedBy": "user8"
+  },
+  {
+    "id": 159,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do programmers always mix up Christmas and Halloween? (v3)",
+    "punchline": "Because Oct 31 == Dec 25!",
+    "rating": 3.7,
+    "submittedBy": "user9"
+  },
+  {
+    "id": 160,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why was the function sad? (v3)",
+    "punchline": "Because it didn't return anything!",
+    "rating": 3.2,
+    "submittedBy": "user10"
+  },
+  {
+    "id": 161,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is a programmer's favourite hangout place? (v3)",
+    "punchline": "Foo Bar!",
+    "rating": 4.1,
+    "submittedBy": "user11"
+  },
+  {
+    "id": 162,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the React component go to therapy? (v3)",
+    "punchline": "Too many state changes!",
+    "rating": 4.2,
+    "submittedBy": "user12"
+  },
+  {
+    "id": 163,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What do you call a sleeping dinosaur? (v3)",
+    "punchline": "A dino-snore... null pointer exception!",
+    "rating": 3.3,
+    "submittedBy": "user13"
+  },
+  {
+    "id": 164,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer delete his dating profile? (v3)",
+    "punchline": "Because he found the perfect loop!",
+    "rating": 4.1,
+    "submittedBy": "user14"
+  },
+  {
+    "id": 165,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is a computer virus? (v3)",
+    "punchline": "A terminal illness!",
+    "rating": 3.8,
+    "submittedBy": "user15"
+  },
+  {
+    "id": 166,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why do backend developers make good partners? (v3)",
+    "punchline": "They handle all your requests!",
+    "rating": 4.3,
+    "submittedBy": "user16"
+  },
+  {
+    "id": 167,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What happens when a QA engineer walks into a bar? (v3)",
+    "punchline": "They order 0 beers, 1 beer, 99999 beers, -1 beers, and a lizard!",
+    "rating": 3.6,
+    "submittedBy": "user17"
+  },
+  {
+    "id": 168,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the developer go hungry? (v3)",
+    "punchline": "Because he ran out of stack overflow!",
+    "rating": 3.8,
+    "submittedBy": "user18"
+  },
+  {
+    "id": 169,
+    "type": "programming",
+    "category": "programming",
+    "setup": "What is the most used language in programming? (v3)",
+    "punchline": "Profanity!",
+    "rating": 4.1,
+    "submittedBy": "user19"
+  },
+  {
+    "id": 170,
+    "type": "programming",
+    "category": "programming",
+    "setup": "Why did the programmer use dark mode? (v3)",
+    "punchline": "So he could write in the dark!",
+    "rating": 4.3,
+    "submittedBy": "user20"
+  },
+  {
+    "id": 171,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why can't you give Elsa a balloon? (v3)",
+    "punchline": "Because she'll let it go!",
+    "rating": 3.5,
+    "submittedBy": "user21"
+  },
+  {
+    "id": 172,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call cheese that isn't yours? (v3)",
+    "punchline": "Nacho cheese!",
+    "rating": 3.9,
+    "submittedBy": "user22"
+  },
+  {
+    "id": 173,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why did the scarecrow win an award? (v3)",
+    "punchline": "He was outstanding in his field!",
+    "rating": 3.1,
+    "submittedBy": "user23"
+  },
+  {
+    "id": 174,
+    "type": "dad",
+    "category": "dad",
+    "setup": "I'm reading a book about anti-gravity. (v3)",
+    "punchline": "It's impossible to put down!",
+    "rating": 4.1,
+    "submittedBy": "user24"
+  },
+  {
+    "id": 175,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Did you hear about the mathematician afraid of negative numbers? (v3)",
+    "punchline": "He'll stop at nothing to avoid them!",
+    "rating": 3.7,
+    "submittedBy": "user25"
+  },
+  {
+    "id": 176,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a factory that makes okay products? (v3)",
+    "punchline": "A satisfactory!",
+    "rating": 3.4,
+    "submittedBy": "user26"
+  },
+  {
+    "id": 177,
+    "type": "dad",
+    "category": "dad",
+    "setup": "I used to hate facial hair... (v3)",
+    "punchline": "But then it grew on me!",
+    "rating": 3.9,
+    "submittedBy": "user27"
+  },
+  {
+    "id": 178,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What did the ocean say to the beach? (v3)",
+    "punchline": "Nothing, it just waved!",
+    "rating": 3.7,
+    "submittedBy": "user28"
+  },
+  {
+    "id": 179,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a fish without eyes? (v3)",
+    "punchline": "A fsh!",
+    "rating": 3.5,
+    "submittedBy": "user29"
+  },
+  {
+    "id": 180,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why did the bicycle fall over? (v3)",
+    "punchline": "Because it was two-tired!",
+    "rating": 3.2,
+    "submittedBy": "user30"
+  },
+  {
+    "id": 181,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a sleeping bull? (v3)",
+    "punchline": "A bulldozer!",
+    "rating": 4.7,
+    "submittedBy": "user1"
+  },
+  {
+    "id": 182,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why can't your nose be 12 inches long? (v3)",
+    "punchline": "Because then it would be a foot!",
+    "rating": 4.1,
+    "submittedBy": "user2"
+  },
+  {
+    "id": 183,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a man with a rubber toe? (v3)",
+    "punchline": "Roberto!",
+    "rating": 3.6,
+    "submittedBy": "user3"
+  },
+  {
+    "id": 184,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why did the coffee file a police report? (v3)",
+    "punchline": "It got mugged!",
+    "rating": 3.1,
+    "submittedBy": "user4"
+  },
+  {
+    "id": 185,
+    "type": "dad",
+    "category": "dad",
+    "setup": "How do you make a tissue dance? (v3)",
+    "punchline": "Put a little boogie in it!",
+    "rating": 4.8,
+    "submittedBy": "user5"
+  },
+  {
+    "id": 186,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call an alligator in a vest? (v3)",
+    "punchline": "An investigator!",
+    "rating": 4.1,
+    "submittedBy": "user6"
+  },
+  {
+    "id": 187,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Why don't eggs tell jokes? (v3)",
+    "punchline": "They'd crack each other up!",
+    "rating": 3.8,
+    "submittedBy": "user7"
+  },
+  {
+    "id": 188,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a nervous javelin thrower? (v3)",
+    "punchline": "Shakespeare!",
+    "rating": 3.8,
+    "submittedBy": "user8"
+  },
+  {
+    "id": 189,
+    "type": "dad",
+    "category": "dad",
+    "setup": "Did you hear about the claustrophobic astronaut? (v3)",
+    "punchline": "He just needed a little space!",
+    "rating": 4.4,
+    "submittedBy": "user9"
+  },
+  {
+    "id": 190,
+    "type": "dad",
+    "category": "dad",
+    "setup": "What do you call a pig that does karate? (v3)",
+    "punchline": "A pork chop!",
+    "rating": 4.8,
+    "submittedBy": "user10"
+  },
+  {
+    "id": 191,
+    "type": "general",
+    "category": "general",
+    "setup": "Why don't scientists trust atoms? (v3)",
+    "punchline": "Because they make up everything!",
+    "rating": 3.5,
+    "submittedBy": "user11"
+  },
+  {
+    "id": 192,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you get when you cross a snowman and a vampire? (v3)",
+    "punchline": "Frostbite!",
+    "rating": 4.6,
+    "submittedBy": "user12"
+  },
+  {
+    "id": 193,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the math book look so sad? (v3)",
+    "punchline": "It had too many problems!",
+    "rating": 4.8,
+    "submittedBy": "user13"
+  },
+  {
+    "id": 194,
+    "type": "general",
+    "category": "general",
+    "setup": "How do you organise a space party? (v3)",
+    "punchline": "You planet!",
+    "rating": 4.1,
+    "submittedBy": "user14"
+  },
+  {
+    "id": 195,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a bear with no teeth? (v3)",
+    "punchline": "A gummy bear!",
+    "rating": 3.4,
+    "submittedBy": "user15"
+  },
+  {
+    "id": 196,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the golfer bring extra pants? (v3)",
+    "punchline": "In case he got a hole in one!",
+    "rating": 3.5,
+    "submittedBy": "user16"
+  },
+  {
+    "id": 197,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a fake noodle? (v3)",
+    "punchline": "An impasta!",
+    "rating": 3.3,
+    "submittedBy": "user17"
+  },
+  {
+    "id": 198,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the tomato turn red? (v3)",
+    "punchline": "Because it saw the salad dressing!",
+    "rating": 3.8,
+    "submittedBy": "user18"
+  },
+  {
+    "id": 199,
+    "type": "general",
+    "category": "general",
+    "setup": "What do you call a magic dog? (v3)",
+    "punchline": "A labracadabrador!",
+    "rating": 4.8,
+    "submittedBy": "user19"
+  },
+  {
+    "id": 200,
+    "type": "general",
+    "category": "general",
+    "setup": "Why did the banana go to the doctor? (v3)",
+    "punchline": "It wasn't peeling well!",
+    "rating": 4.6,
+    "submittedBy": "user20"
+  }
+]

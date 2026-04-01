@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "text": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House",
+    "category": "programming",
+    "likes": 3916,
+    "bookmarks": 1321
+  },
+  {
+    "id": 2,
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "category": "programming",
+    "likes": 210,
+    "bookmarks": 1901
+  },
+  {
+    "id": 3,
+    "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler",
+    "category": "programming",
+    "likes": 8131,
+    "bookmarks": 531
+  },
+  {
+    "id": 4,
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds",
+    "category": "programming",
+    "likes": 4459,
+    "bookmarks": 217
+  },
+  {
+    "id": 5,
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson",
+    "category": "programming",
+    "likes": 2254,
+    "bookmarks": 1891
+  },
+  {
+    "id": 6,
+    "text": "Debugging is twice as hard as writing the code in the first place.",
+    "author": "Brian W. Kernighan",
+    "category": "programming",
+    "likes": 1663,
+    "bookmarks": 1978
+  },
+  {
+    "id": 7,
+    "text": "The best error message is the one that never shows up.",
+    "author": "Thomas Fuchs",
+    "category": "programming",
+    "likes": 4689,
+    "bookmarks": 172
+  },
+  {
+    "id": 8,
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "programming",
+    "likes": 8131,
+    "bookmarks": 396
+  },
+  {
+    "id": 9,
+    "text": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck",
+    "category": "programming",
+    "likes": 2319,
+    "bookmarks": 1655
+  },
+  {
+    "id": 10,
+    "text": "Code never lies, comments sometimes do.",
+    "author": "Ron Jeffries",
+    "category": "programming",
+    "likes": 7615,
+    "bookmarks": 249
+  },
+  {
+    "id": 11,
+    "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+    "author": "C.A.R. Hoare",
+    "category": "programming",
+    "likes": 8220,
+    "bookmarks": 119
+  },
+  {
+    "id": 12,
+    "text": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard",
+    "category": "programming",
+    "likes": 7137,
+    "bookmarks": 1201
+  },
+  {
+    "id": 13,
+    "text": "The function of good software is to make the complex appear simple.",
+    "author": "Grady Booch",
+    "category": "programming",
+    "likes": 5966,
+    "bookmarks": 1607
+  },
+  {
+    "id": 14,
+    "text": "Software is a great combination of artistry and engineering.",
+    "author": "Bill Gates",
+    "category": "programming",
+    "likes": 2378,
+    "bookmarks": 626
+  },
+  {
+    "id": 15,
+    "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "author": "Bill Gates",
+    "category": "programming",
+    "likes": 3125,
+    "bookmarks": 139
+  },
+  {
+    "id": 16,
+    "text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+    "author": "John F. Woods",
+    "category": "programming",
+    "likes": 9473,
+    "bookmarks": 1813
+  },
+  {
+    "id": 17,
+    "text": "No code is faster than no code.",
+    "author": "Kevlin Henney",
+    "category": "programming",
+    "likes": 8086,
+    "bookmarks": 1297
+  },
+  {
+    "id": 18,
+    "text": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth",
+    "category": "programming",
+    "likes": 7793,
+    "bookmarks": 510
+  },
+  {
+    "id": 19,
+    "text": "An idiot admires complexity, a genius admires simplicity.",
+    "author": "Terry Davis",
+    "category": "programming",
+    "likes": 3136,
+    "bookmarks": 1988
+  },
+  {
+    "id": 20,
+    "text": "The best way to get a project done faster is to start sooner.",
+    "author": "Jim Highsmith",
+    "category": "programming",
+    "likes": 4743,
+    "bookmarks": 805
+  },
+  {
+    "id": 21,
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "motivation",
+    "likes": 5281,
+    "bookmarks": 1736
+  },
+  {
+    "id": 22,
+    "text": "In the middle of every difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "likes": 2772,
+    "bookmarks": 762
+  },
+  {
+    "id": 23,
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "motivation",
+    "likes": 483,
+    "bookmarks": 1902
+  },
+  {
+    "id": 24,
+    "text": "Success is not final, failure is not fatal: the courage to continue is what counts.",
+    "author": "Winston Churchill",
+    "category": "motivation",
+    "likes": 9716,
+    "bookmarks": 345
+  },
+  {
+    "id": 25,
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "likes": 8728,
+    "bookmarks": 248
+  },
+  {
+    "id": 26,
+    "text": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "motivation",
+    "likes": 2066,
+    "bookmarks": 698
+  },
+  {
+    "id": 27,
+    "text": "The harder I work, the luckier I get.",
+    "author": "Samuel Goldwyn",
+    "category": "motivation",
+    "likes": 269,
+    "bookmarks": 62
+  },
+  {
+    "id": 28,
+    "text": "You miss 100 percent of the shots you never take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation",
+    "likes": 9480,
+    "bookmarks": 619
+  },
+  {
+    "id": 29,
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford",
+    "category": "motivation",
+    "likes": 5520,
+    "bookmarks": 1866
+  },
+  {
+    "id": 30,
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "category": "motivation",
+    "likes": 5516,
+    "bookmarks": 633
+  },
+  {
+    "id": 31,
+    "text": "Life is 10 percent what happens to you and 90 percent how you react to it.",
+    "author": "Charles R. Swindoll",
+    "category": "motivation",
+    "likes": 7011,
+    "bookmarks": 76
+  },
+  {
+    "id": 32,
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "motivation",
+    "likes": 963,
+    "bookmarks": 494
+  },
+  {
+    "id": 33,
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "motivation",
+    "likes": 2290,
+    "bookmarks": 1433
+  },
+  {
+    "id": 34,
+    "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis",
+    "category": "motivation",
+    "likes": 3237,
+    "bookmarks": 594
+  },
+  {
+    "id": 35,
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation",
+    "likes": 7896,
+    "bookmarks": 473
+  },
+  {
+    "id": 36,
+    "text": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin",
+    "category": "learning",
+    "likes": 249,
+    "bookmarks": 1772
+  },
+  {
+    "id": 37,
+    "text": "Learning never exhausts the mind.",
+    "author": "Leonardo da Vinci",
+    "category": "learning",
+    "likes": 1614,
+    "bookmarks": 125
+  },
+  {
+    "id": 38,
+    "text": "The more that you read, the more things you will know.",
+    "author": "Dr. Seuss",
+    "category": "learning",
+    "likes": 9120,
+    "bookmarks": 1359
+  },
+  {
+    "id": 39,
+    "text": "Education is not the filling of a pail, but the lighting of a fire.",
+    "author": "W.B. Yeats",
+    "category": "learning",
+    "likes": 4596,
+    "bookmarks": 1042
+  },
+  {
+    "id": 40,
+    "text": "The beautiful thing about learning is that nobody can take it away from you.",
+    "author": "B.B. King",
+    "category": "learning",
+    "likes": 8929,
+    "bookmarks": 882
+  },
+  {
+    "id": 41,
+    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "category": "learning",
+    "likes": 8563,
+    "bookmarks": 174
+  },
+  {
+    "id": 42,
+    "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi",
+    "category": "learning",
+    "likes": 4078,
+    "bookmarks": 24
+  },
+  {
+    "id": 43,
+    "text": "Anyone who stops learning is old, whether at twenty or eighty.",
+    "author": "Henry Ford",
+    "category": "learning",
+    "likes": 5687,
+    "bookmarks": 1429
+  },
+  {
+    "id": 44,
+    "text": "The expert in anything was once a beginner.",
+    "author": "Helen Hayes",
+    "category": "learning",
+    "likes": 594,
+    "bookmarks": 156
+  },
+  {
+    "id": 45,
+    "text": "Knowledge is power.",
+    "author": "Francis Bacon",
+    "category": "learning",
+    "likes": 4669,
+    "bookmarks": 10
+  },
+  {
+    "id": 46,
+    "text": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman",
+    "category": "productivity",
+    "likes": 2201,
+    "bookmarks": 1542
+  },
+  {
+    "id": 47,
+    "text": "Focus on being productive instead of busy.",
+    "author": "Tim Ferriss",
+    "category": "productivity",
+    "likes": 9717,
+    "bookmarks": 144
+  },
+  {
+    "id": 48,
+    "text": "You don't need more time in your day. You need to decide.",
+    "author": "Seth Godin",
+    "category": "productivity",
+    "likes": 3110,
+    "bookmarks": 1672
+  },
+  {
+    "id": 49,
+    "text": "Until we can manage time, we can manage nothing else.",
+    "author": "Peter Drucker",
+    "category": "productivity",
+    "likes": 5845,
+    "bookmarks": 704
+  },
+  {
+    "id": 50,
+    "text": "It's not always that we need to do more but rather that we need to focus on less.",
+    "author": "Nathan W. Morris",
+    "category": "productivity",
+    "likes": 5694,
+    "bookmarks": 615
+  },
+  {
+    "id": 51,
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "category": "technology",
+    "likes": 7721,
+    "bookmarks": 749
+  },
+  {
+    "id": 52,
+    "text": "Technology is best when it brings people together.",
+    "author": "Matt Mullenweg",
+    "category": "technology",
+    "likes": 8898,
+    "bookmarks": 1961
+  },
+  {
+    "id": 53,
+    "text": "The internet is becoming the town square for the global village of tomorrow.",
+    "author": "Bill Gates",
+    "category": "technology",
+    "likes": 235,
+    "bookmarks": 364
+  },
+  {
+    "id": 54,
+    "text": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "technology",
+    "likes": 3531,
+    "bookmarks": 428
+  },
+  {
+    "id": 55,
+    "text": "The advance of technology is based on making it fit in so that you don't really even notice it.",
+    "author": "Bill Gates",
+    "category": "technology",
+    "likes": 8544,
+    "bookmarks": 1904
+  },
+  {
+    "id": 56,
+    "text": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House",
+    "category": "programming",
+    "likes": 596,
+    "bookmarks": 1230
+  },
+  {
+    "id": 57,
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "category": "programming",
+    "likes": 562,
+    "bookmarks": 1467
+  },
+  {
+    "id": 58,
+    "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler",
+    "category": "programming",
+    "likes": 4172,
+    "bookmarks": 953
+  },
+  {
+    "id": 59,
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds",
+    "category": "programming",
+    "likes": 9841,
+    "bookmarks": 88
+  },
+  {
+    "id": 60,
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson",
+    "category": "programming",
+    "likes": 3431,
+    "bookmarks": 1734
+  },
+  {
+    "id": 61,
+    "text": "Debugging is twice as hard as writing the code in the first place.",
+    "author": "Brian W. Kernighan",
+    "category": "programming",
+    "likes": 1557,
+    "bookmarks": 1095
+  },
+  {
+    "id": 62,
+    "text": "The best error message is the one that never shows up.",
+    "author": "Thomas Fuchs",
+    "category": "programming",
+    "likes": 1898,
+    "bookmarks": 1069
+  },
+  {
+    "id": 63,
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "programming",
+    "likes": 3167,
+    "bookmarks": 589
+  },
+  {
+    "id": 64,
+    "text": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck",
+    "category": "programming",
+    "likes": 1008,
+    "bookmarks": 588
+  },
+  {
+    "id": 65,
+    "text": "Code never lies, comments sometimes do.",
+    "author": "Ron Jeffries",
+    "category": "programming",
+    "likes": 738,
+    "bookmarks": 1308
+  },
+  {
+    "id": 66,
+    "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+    "author": "C.A.R. Hoare",
+    "category": "programming",
+    "likes": 7842,
+    "bookmarks": 179
+  },
+  {
+    "id": 67,
+    "text": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard",
+    "category": "programming",
+    "likes": 1912,
+    "bookmarks": 1666
+  },
+  {
+    "id": 68,
+    "text": "The function of good software is to make the complex appear simple.",
+    "author": "Grady Booch",
+    "category": "programming",
+    "likes": 2101,
+    "bookmarks": 522
+  },
+  {
+    "id": 69,
+    "text": "Software is a great combination of artistry and engineering.",
+    "author": "Bill Gates",
+    "category": "programming",
+    "likes": 6454,
+    "bookmarks": 1060
+  },
+  {
+    "id": 70,
+    "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "author": "Bill Gates",
+    "category": "programming",
+    "likes": 9169,
+    "bookmarks": 514
+  },
+  {
+    "id": 71,
+    "text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+    "author": "John F. Woods",
+    "category": "programming",
+    "likes": 5134,
+    "bookmarks": 551
+  },
+  {
+    "id": 72,
+    "text": "No code is faster than no code.",
+    "author": "Kevlin Henney",
+    "category": "programming",
+    "likes": 8937,
+    "bookmarks": 1010
+  },
+  {
+    "id": 73,
+    "text": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth",
+    "category": "programming",
+    "likes": 7078,
+    "bookmarks": 1898
+  },
+  {
+    "id": 74,
+    "text": "An idiot admires complexity, a genius admires simplicity.",
+    "author": "Terry Davis",
+    "category": "programming",
+    "likes": 8791,
+    "bookmarks": 60
+  },
+  {
+    "id": 75,
+    "text": "The best way to get a project done faster is to start sooner.",
+    "author": "Jim Highsmith",
+    "category": "programming",
+    "likes": 5247,
+    "bookmarks": 1858
+  },
+  {
+    "id": 76,
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "motivation",
+    "likes": 711,
+    "bookmarks": 553
+  },
+  {
+    "id": 77,
+    "text": "In the middle of every difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "likes": 7611,
+    "bookmarks": 101
+  },
+  {
+    "id": 78,
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "motivation",
+    "likes": 3096,
+    "bookmarks": 702
+  },
+  {
+    "id": 79,
+    "text": "Success is not final, failure is not fatal: the courage to continue is what counts.",
+    "author": "Winston Churchill",
+    "category": "motivation",
+    "likes": 9162,
+    "bookmarks": 1310
+  },
+  {
+    "id": 80,
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "likes": 9601,
+    "bookmarks": 1739
+  },
+  {
+    "id": 81,
+    "text": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "motivation",
+    "likes": 2409,
+    "bookmarks": 1393
+  },
+  {
+    "id": 82,
+    "text": "The harder I work, the luckier I get.",
+    "author": "Samuel Goldwyn",
+    "category": "motivation",
+    "likes": 6081,
+    "bookmarks": 1261
+  },
+  {
+    "id": 83,
+    "text": "You miss 100 percent of the shots you never take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation",
+    "likes": 1435,
+    "bookmarks": 1809
+  },
+  {
+    "id": 84,
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford",
+    "category": "motivation",
+    "likes": 5536,
+    "bookmarks": 1907
+  },
+  {
+    "id": 85,
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "category": "motivation",
+    "likes": 3585,
+    "bookmarks": 20
+  },
+  {
+    "id": 86,
+    "text": "Life is 10 percent what happens to you and 90 percent how you react to it.",
+    "author": "Charles R. Swindoll",
+    "category": "motivation",
+    "likes": 8426,
+    "bookmarks": 1389
+  },
+  {
+    "id": 87,
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "motivation",
+    "likes": 965,
+    "bookmarks": 1081
+  },
+  {
+    "id": 88,
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "motivation",
+    "likes": 310,
+    "bookmarks": 1398
+  },
+  {
+    "id": 89,
+    "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis",
+    "category": "motivation",
+    "likes": 803,
+    "bookmarks": 802
+  },
+  {
+    "id": 90,
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation",
+    "likes": 4074,
+    "bookmarks": 1731
+  },
+  {
+    "id": 91,
+    "text": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin",
+    "category": "learning",
+    "likes": 8974,
+    "bookmarks": 1477
+  },
+  {
+    "id": 92,
+    "text": "Learning never exhausts the mind.",
+    "author": "Leonardo da Vinci",
+    "category": "learning",
+    "likes": 3139,
+    "bookmarks": 1910
+  },
+  {
+    "id": 93,
+    "text": "The more that you read, the more things you will know.",
+    "author": "Dr. Seuss",
+    "category": "learning",
+    "likes": 8904,
+    "bookmarks": 104
+  },
+  {
+    "id": 94,
+    "text": "Education is not the filling of a pail, but the lighting of a fire.",
+    "author": "W.B. Yeats",
+    "category": "learning",
+    "likes": 3879,
+    "bookmarks": 1373
+  },
+  {
+    "id": 95,
+    "text": "The beautiful thing about learning is that nobody can take it away from you.",
+    "author": "B.B. King",
+    "category": "learning",
+    "likes": 8700,
+    "bookmarks": 186
+  },
+  {
+    "id": 96,
+    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "category": "learning",
+    "likes": 6869,
+    "bookmarks": 311
+  },
+  {
+    "id": 97,
+    "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi",
+    "category": "learning",
+    "likes": 1306,
+    "bookmarks": 1509
+  },
+  {
+    "id": 98,
+    "text": "Anyone who stops learning is old, whether at twenty or eighty.",
+    "author": "Henry Ford",
+    "category": "learning",
+    "likes": 5660,
+    "bookmarks": 1803
+  },
+  {
+    "id": 99,
+    "text": "The expert in anything was once a beginner.",
+    "author": "Helen Hayes",
+    "category": "learning",
+    "likes": 100,
+    "bookmarks": 40
+  },
+  {
+    "id": 100,
+    "text": "Knowledge is power.",
+    "author": "Francis Bacon",
+    "category": "learning",
+    "likes": 3487,
+    "bookmarks": 1983
+  },
+  {
+    "id": 101,
+    "text": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman",
+    "category": "productivity",
+    "likes": 6206,
+    "bookmarks": 756
+  },
+  {
+    "id": 102,
+    "text": "Focus on being productive instead of busy.",
+    "author": "Tim Ferriss",
+    "category": "productivity",
+    "likes": 8091,
+    "bookmarks": 1882
+  },
+  {
+    "id": 103,
+    "text": "You don't need more time in your day. You need to decide.",
+    "author": "Seth Godin",
+    "category": "productivity",
+    "likes": 2097,
+    "bookmarks": 200
+  },
+  {
+    "id": 104,
+    "text": "Until we can manage time, we can manage nothing else.",
+    "author": "Peter Drucker",
+    "category": "productivity",
+    "likes": 679,
+    "bookmarks": 299
+  },
+  {
+    "id": 105,
+    "text": "It's not always that we need to do more but rather that we need to focus on less.",
+    "author": "Nathan W. Morris",
+    "category": "productivity",
+    "likes": 7128,
+    "bookmarks": 927
+  },
+  {
+    "id": 106,
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "category": "technology",
+    "likes": 2838,
+    "bookmarks": 1553
+  },
+  {
+    "id": 107,
+    "text": "Technology is best when it brings people together.",
+    "author": "Matt Mullenweg",
+    "category": "technology",
+    "likes": 9357,
+    "bookmarks": 1834
+  },
+  {
+    "id": 108,
+    "text": "The internet is becoming the town square for the global village of tomorrow.",
+    "author": "Bill Gates",
+    "category": "technology",
+    "likes": 1446,
+    "bookmarks": 1440
+  },
+  {
+    "id": 109,
+    "text": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "technology",
+    "likes": 3805,
+    "bookmarks": 1599
+  },
+  {
+    "id": 110,
+    "text": "The advance of technology is based on making it fit in so that you don't really even notice it.",
+    "author": "Bill Gates",
+    "category": "technology",
+    "likes": 1152,
+    "bookmarks": 225
+  },
+  {
+    "id": 111,
+    "text": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House",
+    "category": "programming",
+    "likes": 950,
+    "bookmarks": 194
+  },
+  {
+    "id": 112,
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "category": "programming",
+    "likes": 4600,
+    "bookmarks": 64
+  },
+  {
+    "id": 113,
+    "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler",
+    "category": "programming",
+    "likes": 3912,
+    "bookmarks": 1153
+  },
+  {
+    "id": 114,
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds",
+    "category": "programming",
+    "likes": 3065,
+    "bookmarks": 759
+  },
+  {
+    "id": 115,
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson",
+    "category": "programming",
+    "likes": 7875,
+    "bookmarks": 345
+  },
+  {
+    "id": 116,
+    "text": "Debugging is twice as hard as writing the code in the first place.",
+    "author": "Brian W. Kernighan",
+    "category": "programming",
+    "likes": 6038,
+    "bookmarks": 254
+  },
+  {
+    "id": 117,
+    "text": "The best error message is the one that never shows up.",
+    "author": "Thomas Fuchs",
+    "category": "programming",
+    "likes": 5755,
+    "bookmarks": 1140
+  },
+  {
+    "id": 118,
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "programming",
+    "likes": 6261,
+    "bookmarks": 1054
+  },
+  {
+    "id": 119,
+    "text": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck",
+    "category": "programming",
+    "likes": 2743,
+    "bookmarks": 469
+  },
+  {
+    "id": 120,
+    "text": "Code never lies, comments sometimes do.",
+    "author": "Ron Jeffries",
+    "category": "programming",
+    "likes": 864,
+    "bookmarks": 1602
+  },
+  {
+    "id": 121,
+    "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+    "author": "C.A.R. Hoare",
+    "category": "programming",
+    "likes": 571,
+    "bookmarks": 1167
+  },
+  {
+    "id": 122,
+    "text": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard",
+    "category": "programming",
+    "likes": 7312,
+    "bookmarks": 854
+  },
+  {
+    "id": 123,
+    "text": "The function of good software is to make the complex appear simple.",
+    "author": "Grady Booch",
+    "category": "programming",
+    "likes": 3630,
+    "bookmarks": 1404
+  },
+  {
+    "id": 124,
+    "text": "Software is a great combination of artistry and engineering.",
+    "author": "Bill Gates",
+    "category": "programming",
+    "likes": 6223,
+    "bookmarks": 1601
+  },
+  {
+    "id": 125,
+    "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "author": "Bill Gates",
+    "category": "programming",
+    "likes": 5880,
+    "bookmarks": 560
+  },
+  {
+    "id": 126,
+    "text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+    "author": "John F. Woods",
+    "category": "programming",
+    "likes": 100,
+    "bookmarks": 464
+  },
+  {
+    "id": 127,
+    "text": "No code is faster than no code.",
+    "author": "Kevlin Henney",
+    "category": "programming",
+    "likes": 2540,
+    "bookmarks": 1471
+  },
+  {
+    "id": 128,
+    "text": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth",
+    "category": "programming",
+    "likes": 3319,
+    "bookmarks": 251
+  },
+  {
+    "id": 129,
+    "text": "An idiot admires complexity, a genius admires simplicity.",
+    "author": "Terry Davis",
+    "category": "programming",
+    "likes": 8780,
+    "bookmarks": 396
+  },
+  {
+    "id": 130,
+    "text": "The best way to get a project done faster is to start sooner.",
+    "author": "Jim Highsmith",
+    "category": "programming",
+    "likes": 6828,
+    "bookmarks": 83
+  },
+  {
+    "id": 131,
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "motivation",
+    "likes": 5349,
+    "bookmarks": 1131
+  },
+  {
+    "id": 132,
+    "text": "In the middle of every difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "likes": 1809,
+    "bookmarks": 682
+  },
+  {
+    "id": 133,
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "motivation",
+    "likes": 5648,
+    "bookmarks": 1625
+  },
+  {
+    "id": 134,
+    "text": "Success is not final, failure is not fatal: the courage to continue is what counts.",
+    "author": "Winston Churchill",
+    "category": "motivation",
+    "likes": 6459,
+    "bookmarks": 1405
+  },
+  {
+    "id": 135,
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "likes": 5409,
+    "bookmarks": 1573
+  },
+  {
+    "id": 136,
+    "text": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "motivation",
+    "likes": 1837,
+    "bookmarks": 397
+  },
+  {
+    "id": 137,
+    "text": "The harder I work, the luckier I get.",
+    "author": "Samuel Goldwyn",
+    "category": "motivation",
+    "likes": 2764,
+    "bookmarks": 490
+  },
+  {
+    "id": 138,
+    "text": "You miss 100 percent of the shots you never take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation",
+    "likes": 2904,
+    "bookmarks": 309
+  },
+  {
+    "id": 139,
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford",
+    "category": "motivation",
+    "likes": 2264,
+    "bookmarks": 1740
+  },
+  {
+    "id": 140,
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "category": "motivation",
+    "likes": 4564,
+    "bookmarks": 1943
+  },
+  {
+    "id": 141,
+    "text": "Life is 10 percent what happens to you and 90 percent how you react to it.",
+    "author": "Charles R. Swindoll",
+    "category": "motivation",
+    "likes": 425,
+    "bookmarks": 1859
+  },
+  {
+    "id": 142,
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "motivation",
+    "likes": 7339,
+    "bookmarks": 1718
+  },
+  {
+    "id": 143,
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "motivation",
+    "likes": 2831,
+    "bookmarks": 1517
+  },
+  {
+    "id": 144,
+    "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis",
+    "category": "motivation",
+    "likes": 6681,
+    "bookmarks": 1927
+  },
+  {
+    "id": 145,
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation",
+    "likes": 1891,
+    "bookmarks": 722
+  },
+  {
+    "id": 146,
+    "text": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin",
+    "category": "learning",
+    "likes": 4305,
+    "bookmarks": 1288
+  },
+  {
+    "id": 147,
+    "text": "Learning never exhausts the mind.",
+    "author": "Leonardo da Vinci",
+    "category": "learning",
+    "likes": 7427,
+    "bookmarks": 1190
+  },
+  {
+    "id": 148,
+    "text": "The more that you read, the more things you will know.",
+    "author": "Dr. Seuss",
+    "category": "learning",
+    "likes": 8698,
+    "bookmarks": 1220
+  },
+  {
+    "id": 149,
+    "text": "Education is not the filling of a pail, but the lighting of a fire.",
+    "author": "W.B. Yeats",
+    "category": "learning",
+    "likes": 8417,
+    "bookmarks": 1862
+  },
+  {
+    "id": 150,
+    "text": "The beautiful thing about learning is that nobody can take it away from you.",
+    "author": "B.B. King",
+    "category": "learning",
+    "likes": 3282,
+    "bookmarks": 542
+  },
+  {
+    "id": 151,
+    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "category": "learning",
+    "likes": 3071,
+    "bookmarks": 836
+  },
+  {
+    "id": 152,
+    "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi",
+    "category": "learning",
+    "likes": 616,
+    "bookmarks": 1917
+  },
+  {
+    "id": 153,
+    "text": "Anyone who stops learning is old, whether at twenty or eighty.",
+    "author": "Henry Ford",
+    "category": "learning",
+    "likes": 5443,
+    "bookmarks": 636
+  },
+  {
+    "id": 154,
+    "text": "The expert in anything was once a beginner.",
+    "author": "Helen Hayes",
+    "category": "learning",
+    "likes": 2857,
+    "bookmarks": 962
+  },
+  {
+    "id": 155,
+    "text": "Knowledge is power.",
+    "author": "Francis Bacon",
+    "category": "learning",
+    "likes": 5439,
+    "bookmarks": 158
+  },
+  {
+    "id": 156,
+    "text": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman",
+    "category": "productivity",
+    "likes": 8686,
+    "bookmarks": 323
+  },
+  {
+    "id": 157,
+    "text": "Focus on being productive instead of busy.",
+    "author": "Tim Ferriss",
+    "category": "productivity",
+    "likes": 2431,
+    "bookmarks": 902
+  },
+  {
+    "id": 158,
+    "text": "You don't need more time in your day. You need to decide.",
+    "author": "Seth Godin",
+    "category": "productivity",
+    "likes": 1054,
+    "bookmarks": 1946
+  },
+  {
+    "id": 159,
+    "text": "Until we can manage time, we can manage nothing else.",
+    "author": "Peter Drucker",
+    "category": "productivity",
+    "likes": 8767,
+    "bookmarks": 409
+  },
+  {
+    "id": 160,
+    "text": "It's not always that we need to do more but rather that we need to focus on less.",
+    "author": "Nathan W. Morris",
+    "category": "productivity",
+    "likes": 8761,
+    "bookmarks": 1027
+  },
+  {
+    "id": 161,
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "category": "technology",
+    "likes": 7790,
+    "bookmarks": 441
+  },
+  {
+    "id": 162,
+    "text": "Technology is best when it brings people together.",
+    "author": "Matt Mullenweg",
+    "category": "technology",
+    "likes": 4827,
+    "bookmarks": 1393
+  },
+  {
+    "id": 163,
+    "text": "The internet is becoming the town square for the global village of tomorrow.",
+    "author": "Bill Gates",
+    "category": "technology",
+    "likes": 8999,
+    "bookmarks": 1869
+  },
+  {
+    "id": 164,
+    "text": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "technology",
+    "likes": 2818,
+    "bookmarks": 1582
+  },
+  {
+    "id": 165,
+    "text": "The advance of technology is based on making it fit in so that you don't really even notice it.",
+    "author": "Bill Gates",
+    "category": "technology",
+    "likes": 9590,
+    "bookmarks": 1897
+  },
+  {
+    "id": 166,
+    "text": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House",
+    "category": "programming",
+    "likes": 4662,
+    "bookmarks": 1910
+  },
+  {
+    "id": 167,
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "category": "programming",
+    "likes": 7886,
+    "bookmarks": 1157
+  },
+  {
+    "id": 168,
+    "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler",
+    "category": "programming",
+    "likes": 7533,
+    "bookmarks": 150
+  },
+  {
+    "id": 169,
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds",
+    "category": "programming",
+    "likes": 971,
+    "bookmarks": 480
+  },
+  {
+    "id": 170,
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson",
+    "category": "programming",
+    "likes": 100,
+    "bookmarks": 1346
+  },
+  {
+    "id": 171,
+    "text": "Debugging is twice as hard as writing the code in the first place.",
+    "author": "Brian W. Kernighan",
+    "category": "programming",
+    "likes": 2140,
+    "bookmarks": 815
+  },
+  {
+    "id": 172,
+    "text": "The best error message is the one that never shows up.",
+    "author": "Thomas Fuchs",
+    "category": "programming",
+    "likes": 7852,
+    "bookmarks": 100
+  },
+  {
+    "id": 173,
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "programming",
+    "likes": 5847,
+    "bookmarks": 662
+  },
+  {
+    "id": 174,
+    "text": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck",
+    "category": "programming",
+    "likes": 1579,
+    "bookmarks": 660
+  },
+  {
+    "id": 175,
+    "text": "Code never lies, comments sometimes do.",
+    "author": "Ron Jeffries",
+    "category": "programming",
+    "likes": 6799,
+    "bookmarks": 1274
+  },
+  {
+    "id": 176,
+    "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+    "author": "C.A.R. Hoare",
+    "category": "programming",
+    "likes": 9853,
+    "bookmarks": 710
+  },
+  {
+    "id": 177,
+    "text": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard",
+    "category": "programming",
+    "likes": 9032,
+    "bookmarks": 1358
+  },
+  {
+    "id": 178,
+    "text": "The function of good software is to make the complex appear simple.",
+    "author": "Grady Booch",
+    "category": "programming",
+    "likes": 1037,
+    "bookmarks": 586
+  },
+  {
+    "id": 179,
+    "text": "Software is a great combination of artistry and engineering.",
+    "author": "Bill Gates",
+    "category": "programming",
+    "likes": 7552,
+    "bookmarks": 1150
+  },
+  {
+    "id": 180,
+    "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "author": "Bill Gates",
+    "category": "programming",
+    "likes": 4558,
+    "bookmarks": 1969
+  },
+  {
+    "id": 181,
+    "text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+    "author": "John F. Woods",
+    "category": "programming",
+    "likes": 8263,
+    "bookmarks": 713
+  },
+  {
+    "id": 182,
+    "text": "No code is faster than no code.",
+    "author": "Kevlin Henney",
+    "category": "programming",
+    "likes": 8433,
+    "bookmarks": 1544
+  },
+  {
+    "id": 183,
+    "text": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth",
+    "category": "programming",
+    "likes": 4701,
+    "bookmarks": 643
+  },
+  {
+    "id": 184,
+    "text": "An idiot admires complexity, a genius admires simplicity.",
+    "author": "Terry Davis",
+    "category": "programming",
+    "likes": 3334,
+    "bookmarks": 987
+  },
+  {
+    "id": 185,
+    "text": "The best way to get a project done faster is to start sooner.",
+    "author": "Jim Highsmith",
+    "category": "programming",
+    "likes": 4761,
+    "bookmarks": 1318
+  },
+  {
+    "id": 186,
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "motivation",
+    "likes": 3057,
+    "bookmarks": 1367
+  },
+  {
+    "id": 187,
+    "text": "In the middle of every difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "likes": 6265,
+    "bookmarks": 1746
+  },
+  {
+    "id": 188,
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "motivation",
+    "likes": 8862,
+    "bookmarks": 687
+  },
+  {
+    "id": 189,
+    "text": "Success is not final, failure is not fatal: the courage to continue is what counts.",
+    "author": "Winston Churchill",
+    "category": "motivation",
+    "likes": 1216,
+    "bookmarks": 37
+  },
+  {
+    "id": 190,
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "likes": 7788,
+    "bookmarks": 190
+  },
+  {
+    "id": 191,
+    "text": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela",
+    "category": "motivation",
+    "likes": 9187,
+    "bookmarks": 380
+  },
+  {
+    "id": 192,
+    "text": "The harder I work, the luckier I get.",
+    "author": "Samuel Goldwyn",
+    "category": "motivation",
+    "likes": 1989,
+    "bookmarks": 1360
+  },
+  {
+    "id": 193,
+    "text": "You miss 100 percent of the shots you never take.",
+    "author": "Wayne Gretzky",
+    "category": "motivation",
+    "likes": 7675,
+    "bookmarks": 1700
+  },
+  {
+    "id": 194,
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford",
+    "category": "motivation",
+    "likes": 4206,
+    "bookmarks": 973
+  },
+  {
+    "id": 195,
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "category": "motivation",
+    "likes": 6817,
+    "bookmarks": 1331
+  },
+  {
+    "id": 196,
+    "text": "Life is 10 percent what happens to you and 90 percent how you react to it.",
+    "author": "Charles R. Swindoll",
+    "category": "motivation",
+    "likes": 9215,
+    "bookmarks": 1154
+  },
+  {
+    "id": 197,
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "motivation",
+    "likes": 8015,
+    "bookmarks": 1540
+  },
+  {
+    "id": 198,
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "motivation",
+    "likes": 292,
+    "bookmarks": 299
+  },
+  {
+    "id": 199,
+    "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis",
+    "category": "motivation",
+    "likes": 1277,
+    "bookmarks": 965
+  },
+  {
+    "id": 200,
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation",
+    "likes": 6923,
+    "bookmarks": 451
+  }
+]
