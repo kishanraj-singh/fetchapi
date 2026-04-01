@@ -1,0 +1,1218 @@
+[
+  {
+    "id": 1,
+    "name": "Afghanistan",
+    "code": "AF",
+    "capital": "Kabul",
+    "population": 38928346,
+    "area": 652230,
+    "flag": "🇦🇫",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "AFN",
+      "name": "Afghan afghani",
+      "symbol": "؋"
+    },
+    "language": "Pashto, Dari",
+    "callingCode": "+93",
+    "timezone": "UTC+4:30"
+  },
+  {
+    "id": 2,
+    "name": "Albania",
+    "code": "AL",
+    "capital": "Tirana",
+    "population": 2837743,
+    "area": 28748,
+    "flag": "🇦🇱",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "ALL",
+      "name": "Albanian lek",
+      "symbol": "L"
+    },
+    "language": "Albanian",
+    "callingCode": "+355",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 3,
+    "name": "Algeria",
+    "code": "DZ",
+    "capital": "Algiers",
+    "population": 43851044,
+    "area": 2381741,
+    "flag": "🇩🇿",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "د.ج"
+    },
+    "language": "Arabic, Tamazight",
+    "callingCode": "+213",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 4,
+    "name": "Argentina",
+    "code": "AR",
+    "capital": "Buenos Aires",
+    "population": 45195774,
+    "area": 2780400,
+    "flag": "🇦🇷",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "ARS",
+      "name": "Argentine peso",
+      "symbol": "$"
+    },
+    "language": "Spanish",
+    "callingCode": "+54",
+    "timezone": "UTC-3"
+  },
+  {
+    "id": 5,
+    "name": "Armenia",
+    "code": "AM",
+    "capital": "Yerevan",
+    "population": 2963243,
+    "area": 29743,
+    "flag": "🇦🇲",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "AMD",
+      "name": "Armenian dram",
+      "symbol": "֏"
+    },
+    "language": "Armenian",
+    "callingCode": "+374",
+    "timezone": "UTC+4"
+  },
+  {
+    "id": 6,
+    "name": "Australia",
+    "code": "AU",
+    "capital": "Canberra",
+    "population": 25499884,
+    "area": 7741220,
+    "flag": "🇦🇺",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "language": "English",
+    "callingCode": "+61",
+    "timezone": "UTC+10"
+  },
+  {
+    "id": 7,
+    "name": "Austria",
+    "code": "AT",
+    "capital": "Vienna",
+    "population": 9006398,
+    "area": 83871,
+    "flag": "🇦🇹",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "German",
+    "callingCode": "+43",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 8,
+    "name": "Bangladesh",
+    "code": "BD",
+    "capital": "Dhaka",
+    "population": 164689383,
+    "area": 147570,
+    "flag": "🇧🇩",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "BDT",
+      "name": "Bangladeshi taka",
+      "symbol": "৳"
+    },
+    "language": "Bengali",
+    "callingCode": "+880",
+    "timezone": "UTC+6"
+  },
+  {
+    "id": 9,
+    "name": "Belgium",
+    "code": "BE",
+    "capital": "Brussels",
+    "population": 11589623,
+    "area": 30528,
+    "flag": "🇧🇪",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "Dutch, French, German",
+    "callingCode": "+32",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 10,
+    "name": "Brazil",
+    "code": "BR",
+    "capital": "Brasília",
+    "population": 212559417,
+    "area": 8515767,
+    "flag": "🇧🇷",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "BRL",
+      "name": "Brazilian real",
+      "symbol": "R$"
+    },
+    "language": "Portuguese",
+    "callingCode": "+55",
+    "timezone": "UTC-3"
+  },
+  {
+    "id": 11,
+    "name": "Canada",
+    "code": "CA",
+    "capital": "Ottawa",
+    "population": 37742154,
+    "area": 9984670,
+    "flag": "🇨🇦",
+    "region": "Americas",
+    "subregion": "North America",
+    "currency": {
+      "code": "CAD",
+      "name": "Canadian dollar",
+      "symbol": "$"
+    },
+    "language": "English, French",
+    "callingCode": "+1",
+    "timezone": "UTC-5"
+  },
+  {
+    "id": 12,
+    "name": "Chile",
+    "code": "CL",
+    "capital": "Santiago",
+    "population": 19116201,
+    "area": 756102,
+    "flag": "🇨🇱",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "CLP",
+      "name": "Chilean peso",
+      "symbol": "$"
+    },
+    "language": "Spanish",
+    "callingCode": "+56",
+    "timezone": "UTC-4"
+  },
+  {
+    "id": 13,
+    "name": "China",
+    "code": "CN",
+    "capital": "Beijing",
+    "population": 1439323776,
+    "area": 9596960,
+    "flag": "🇨🇳",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "CNY",
+      "name": "Chinese yuan",
+      "symbol": "¥"
+    },
+    "language": "Mandarin",
+    "callingCode": "+86",
+    "timezone": "UTC+8"
+  },
+  {
+    "id": 14,
+    "name": "Colombia",
+    "code": "CO",
+    "capital": "Bogotá",
+    "population": 50882891,
+    "area": 1141748,
+    "flag": "🇨🇴",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "COP",
+      "name": "Colombian peso",
+      "symbol": "$"
+    },
+    "language": "Spanish",
+    "callingCode": "+57",
+    "timezone": "UTC-5"
+  },
+  {
+    "id": 15,
+    "name": "Croatia",
+    "code": "HR",
+    "capital": "Zagreb",
+    "population": 4105267,
+    "area": 56594,
+    "flag": "🇭🇷",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "Croatian",
+    "callingCode": "+385",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 16,
+    "name": "Czech Republic",
+    "code": "CZ",
+    "capital": "Prague",
+    "population": 10708981,
+    "area": 78866,
+    "flag": "🇨🇿",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "CZK",
+      "name": "Czech koruna",
+      "symbol": "Kč"
+    },
+    "language": "Czech",
+    "callingCode": "+420",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 17,
+    "name": "Denmark",
+    "code": "DK",
+    "capital": "Copenhagen",
+    "population": 5792202,
+    "area": 43094,
+    "flag": "🇩🇰",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr"
+    },
+    "language": "Danish",
+    "callingCode": "+45",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 18,
+    "name": "Egypt",
+    "code": "EG",
+    "capital": "Cairo",
+    "population": 102334404,
+    "area": 1002450,
+    "flag": "🇪🇬",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": {
+      "code": "EGP",
+      "name": "Egyptian pound",
+      "symbol": "£"
+    },
+    "language": "Arabic",
+    "callingCode": "+20",
+    "timezone": "UTC+2"
+  },
+  {
+    "id": 19,
+    "name": "Ethiopia",
+    "code": "ET",
+    "capital": "Addis Ababa",
+    "population": 114963588,
+    "area": 1104300,
+    "flag": "🇪🇹",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "ETB",
+      "name": "Ethiopian birr",
+      "symbol": "Br"
+    },
+    "language": "Amharic",
+    "callingCode": "+251",
+    "timezone": "UTC+3"
+  },
+  {
+    "id": 20,
+    "name": "Finland",
+    "code": "FI",
+    "capital": "Helsinki",
+    "population": 5540720,
+    "area": 338424,
+    "flag": "🇫🇮",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "Finnish, Swedish",
+    "callingCode": "+358",
+    "timezone": "UTC+2"
+  },
+  {
+    "id": 21,
+    "name": "France",
+    "code": "FR",
+    "capital": "Paris",
+    "population": 65273511,
+    "area": 551695,
+    "flag": "🇫🇷",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "French",
+    "callingCode": "+33",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 22,
+    "name": "Germany",
+    "code": "DE",
+    "capital": "Berlin",
+    "population": 83783942,
+    "area": 357114,
+    "flag": "🇩🇪",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "German",
+    "callingCode": "+49",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 23,
+    "name": "Ghana",
+    "code": "GH",
+    "capital": "Accra",
+    "population": 31072940,
+    "area": 238533,
+    "flag": "🇬🇭",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "GHS",
+      "name": "Ghanaian cedi",
+      "symbol": "₵"
+    },
+    "language": "English",
+    "callingCode": "+233",
+    "timezone": "UTC"
+  },
+  {
+    "id": 24,
+    "name": "Greece",
+    "code": "GR",
+    "capital": "Athens",
+    "population": 10423054,
+    "area": 131957,
+    "flag": "🇬🇷",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "Greek",
+    "callingCode": "+30",
+    "timezone": "UTC+2"
+  },
+  {
+    "id": 25,
+    "name": "Hungary",
+    "code": "HU",
+    "capital": "Budapest",
+    "population": 9660351,
+    "area": 93028,
+    "flag": "🇭🇺",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "HUF",
+      "name": "Hungarian forint",
+      "symbol": "Ft"
+    },
+    "language": "Hungarian",
+    "callingCode": "+36",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 26,
+    "name": "India",
+    "code": "IN",
+    "capital": "New Delhi",
+    "population": 1380004385,
+    "area": 3287263,
+    "flag": "🇮🇳",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "INR",
+      "name": "Indian rupee",
+      "symbol": "₹"
+    },
+    "language": "Hindi, English",
+    "callingCode": "+91",
+    "timezone": "UTC+5:30"
+  },
+  {
+    "id": 27,
+    "name": "Indonesia",
+    "code": "ID",
+    "capital": "Jakarta",
+    "population": 273523615,
+    "area": 1904569,
+    "flag": "🇮🇩",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": {
+      "code": "IDR",
+      "name": "Indonesian rupiah",
+      "symbol": "Rp"
+    },
+    "language": "Indonesian",
+    "callingCode": "+62",
+    "timezone": "UTC+7"
+  },
+  {
+    "id": 28,
+    "name": "Iran",
+    "code": "IR",
+    "capital": "Tehran",
+    "population": 83992949,
+    "area": 1648195,
+    "flag": "🇮🇷",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "IRR",
+      "name": "Iranian rial",
+      "symbol": "﷼"
+    },
+    "language": "Persian",
+    "callingCode": "+98",
+    "timezone": "UTC+3:30"
+  },
+  {
+    "id": 29,
+    "name": "Iraq",
+    "code": "IQ",
+    "capital": "Baghdad",
+    "population": 40222493,
+    "area": 438317,
+    "flag": "🇮🇶",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "IQD",
+      "name": "Iraqi dinar",
+      "symbol": "ع.د"
+    },
+    "language": "Arabic, Kurdish",
+    "callingCode": "+964",
+    "timezone": "UTC+3"
+  },
+  {
+    "id": 30,
+    "name": "Ireland",
+    "code": "IE",
+    "capital": "Dublin",
+    "population": 4937786,
+    "area": 70273,
+    "flag": "🇮🇪",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "Irish, English",
+    "callingCode": "+353",
+    "timezone": "UTC"
+  },
+  {
+    "id": 31,
+    "name": "Israel",
+    "code": "IL",
+    "capital": "Jerusalem",
+    "population": 8655535,
+    "area": 20770,
+    "flag": "🇮🇱",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "ILS",
+      "name": "Israeli new shekel",
+      "symbol": "₪"
+    },
+    "language": "Hebrew, Arabic",
+    "callingCode": "+972",
+    "timezone": "UTC+2"
+  },
+  {
+    "id": 32,
+    "name": "Italy",
+    "code": "IT",
+    "capital": "Rome",
+    "population": 60461826,
+    "area": 301340,
+    "flag": "🇮🇹",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "Italian",
+    "callingCode": "+39",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 33,
+    "name": "Japan",
+    "code": "JP",
+    "capital": "Tokyo",
+    "population": 126476461,
+    "area": 377975,
+    "flag": "🇯🇵",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "JPY",
+      "name": "Japanese yen",
+      "symbol": "¥"
+    },
+    "language": "Japanese",
+    "callingCode": "+81",
+    "timezone": "UTC+9"
+  },
+  {
+    "id": 34,
+    "name": "Kenya",
+    "code": "KE",
+    "capital": "Nairobi",
+    "population": 53771296,
+    "area": 580367,
+    "flag": "🇰🇪",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "KES",
+      "name": "Kenyan shilling",
+      "symbol": "KSh"
+    },
+    "language": "Swahili, English",
+    "callingCode": "+254",
+    "timezone": "UTC+3"
+  },
+  {
+    "id": 35,
+    "name": "Malaysia",
+    "code": "MY",
+    "capital": "Kuala Lumpur",
+    "population": 32365999,
+    "area": 329847,
+    "flag": "🇲🇾",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": {
+      "code": "MYR",
+      "name": "Malaysian ringgit",
+      "symbol": "RM"
+    },
+    "language": "Malay",
+    "callingCode": "+60",
+    "timezone": "UTC+8"
+  },
+  {
+    "id": 36,
+    "name": "Mexico",
+    "code": "MX",
+    "capital": "Mexico City",
+    "population": 128932753,
+    "area": 1964375,
+    "flag": "🇲🇽",
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": {
+      "code": "MXN",
+      "name": "Mexican peso",
+      "symbol": "$"
+    },
+    "language": "Spanish",
+    "callingCode": "+52",
+    "timezone": "UTC-6"
+  },
+  {
+    "id": 37,
+    "name": "Morocco",
+    "code": "MA",
+    "capital": "Rabat",
+    "population": 36910560,
+    "area": 446550,
+    "flag": "🇲🇦",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": {
+      "code": "MAD",
+      "name": "Moroccan dirham",
+      "symbol": "د.م."
+    },
+    "language": "Arabic, Tamazight",
+    "callingCode": "+212",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 38,
+    "name": "Netherlands",
+    "code": "NL",
+    "capital": "Amsterdam",
+    "population": 17134872,
+    "area": 41543,
+    "flag": "🇳🇱",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "Dutch",
+    "callingCode": "+31",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 39,
+    "name": "New Zealand",
+    "code": "NZ",
+    "capital": "Wellington",
+    "population": 4822233,
+    "area": 270467,
+    "flag": "🇳🇿",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    "language": "English, Maori",
+    "callingCode": "+64",
+    "timezone": "UTC+12"
+  },
+  {
+    "id": 40,
+    "name": "Nigeria",
+    "code": "NG",
+    "capital": "Abuja",
+    "population": 206139589,
+    "area": 923768,
+    "flag": "🇳🇬",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "NGN",
+      "name": "Nigerian naira",
+      "symbol": "₦"
+    },
+    "language": "English",
+    "callingCode": "+234",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 41,
+    "name": "Norway",
+    "code": "NO",
+    "capital": "Oslo",
+    "population": 5421241,
+    "area": 323802,
+    "flag": "🇳🇴",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "NOK",
+      "name": "Norwegian krone",
+      "symbol": "kr"
+    },
+    "language": "Norwegian",
+    "callingCode": "+47",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 42,
+    "name": "Pakistan",
+    "code": "PK",
+    "capital": "Islamabad",
+    "population": 220892340,
+    "area": 881913,
+    "flag": "🇵🇰",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "PKR",
+      "name": "Pakistani rupee",
+      "symbol": "₨"
+    },
+    "language": "Urdu, English",
+    "callingCode": "+92",
+    "timezone": "UTC+5"
+  },
+  {
+    "id": 43,
+    "name": "Peru",
+    "code": "PE",
+    "capital": "Lima",
+    "population": 32971854,
+    "area": 1285216,
+    "flag": "🇵🇪",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "PEN",
+      "name": "Peruvian sol",
+      "symbol": "S/"
+    },
+    "language": "Spanish",
+    "callingCode": "+51",
+    "timezone": "UTC-5"
+  },
+  {
+    "id": 44,
+    "name": "Philippines",
+    "code": "PH",
+    "capital": "Manila",
+    "population": 109581078,
+    "area": 342353,
+    "flag": "🇵🇭",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": {
+      "code": "PHP",
+      "name": "Philippine peso",
+      "symbol": "₱"
+    },
+    "language": "Filipino, English",
+    "callingCode": "+63",
+    "timezone": "UTC+8"
+  },
+  {
+    "id": 45,
+    "name": "Poland",
+    "code": "PL",
+    "capital": "Warsaw",
+    "population": 37846611,
+    "area": 312679,
+    "flag": "🇵🇱",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "PLN",
+      "name": "Polish złoty",
+      "symbol": "zł"
+    },
+    "language": "Polish",
+    "callingCode": "+48",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 46,
+    "name": "Portugal",
+    "code": "PT",
+    "capital": "Lisbon",
+    "population": 10196709,
+    "area": 92212,
+    "flag": "🇵🇹",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "Portuguese",
+    "callingCode": "+351",
+    "timezone": "UTC"
+  },
+  {
+    "id": 47,
+    "name": "Romania",
+    "code": "RO",
+    "capital": "Bucharest",
+    "population": 19237691,
+    "area": 238397,
+    "flag": "🇷🇴",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "RON",
+      "name": "Romanian leu",
+      "symbol": "lei"
+    },
+    "language": "Romanian",
+    "callingCode": "+40",
+    "timezone": "UTC+2"
+  },
+  {
+    "id": 48,
+    "name": "Russia",
+    "code": "RU",
+    "capital": "Moscow",
+    "population": 145934462,
+    "area": 17098242,
+    "flag": "🇷🇺",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "RUB",
+      "name": "Russian ruble",
+      "symbol": "₽"
+    },
+    "language": "Russian",
+    "callingCode": "+7",
+    "timezone": "UTC+3"
+  },
+  {
+    "id": 49,
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "capital": "Riyadh",
+    "population": 34813871,
+    "area": 2149690,
+    "flag": "🇸🇦",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "SAR",
+      "name": "Saudi riyal",
+      "symbol": "﷼"
+    },
+    "language": "Arabic",
+    "callingCode": "+966",
+    "timezone": "UTC+3"
+  },
+  {
+    "id": 50,
+    "name": "Singapore",
+    "code": "SG",
+    "capital": "Singapore",
+    "population": 5850342,
+    "area": 697,
+    "flag": "🇸🇬",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": {
+      "code": "SGD",
+      "name": "Singapore dollar",
+      "symbol": "$"
+    },
+    "language": "English, Malay, Tamil, Chinese",
+    "callingCode": "+65",
+    "timezone": "UTC+8"
+  },
+  {
+    "id": 51,
+    "name": "South Africa",
+    "code": "ZA",
+    "capital": "Pretoria",
+    "population": 59308690,
+    "area": 1219090,
+    "flag": "🇿🇦",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "currency": {
+      "code": "ZAR",
+      "name": "South African rand",
+      "symbol": "R"
+    },
+    "language": "Zulu, Xhosa, Afrikaans, English",
+    "callingCode": "+27",
+    "timezone": "UTC+2"
+  },
+  {
+    "id": 52,
+    "name": "South Korea",
+    "code": "KR",
+    "capital": "Seoul",
+    "population": 51269185,
+    "area": 100210,
+    "flag": "🇰🇷",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "KRW",
+      "name": "South Korean won",
+      "symbol": "₩"
+    },
+    "language": "Korean",
+    "callingCode": "+82",
+    "timezone": "UTC+9"
+  },
+  {
+    "id": 53,
+    "name": "Spain",
+    "code": "ES",
+    "capital": "Madrid",
+    "population": 46754778,
+    "area": 505990,
+    "flag": "🇪🇸",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "language": "Spanish",
+    "callingCode": "+34",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 54,
+    "name": "Sri Lanka",
+    "code": "LK",
+    "capital": "Sri Jayawardenepura Kotte",
+    "population": 21413249,
+    "area": 65610,
+    "flag": "🇱🇰",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "LKR",
+      "name": "Sri Lankan rupee",
+      "symbol": "₨"
+    },
+    "language": "Sinhala, Tamil",
+    "callingCode": "+94",
+    "timezone": "UTC+5:30"
+  },
+  {
+    "id": 55,
+    "name": "Sweden",
+    "code": "SE",
+    "capital": "Stockholm",
+    "population": 10099265,
+    "area": 450295,
+    "flag": "🇸🇪",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "SEK",
+      "name": "Swedish krona",
+      "symbol": "kr"
+    },
+    "language": "Swedish",
+    "callingCode": "+46",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 56,
+    "name": "Switzerland",
+    "code": "CH",
+    "capital": "Bern",
+    "population": 8654622,
+    "area": 41285,
+    "flag": "🇨🇭",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "CHF",
+      "name": "Swiss franc",
+      "symbol": "Fr"
+    },
+    "language": "German, French, Italian, Romansh",
+    "callingCode": "+41",
+    "timezone": "UTC+1"
+  },
+  {
+    "id": 57,
+    "name": "Tanzania",
+    "code": "TZ",
+    "capital": "Dodoma",
+    "population": 59734218,
+    "area": 945087,
+    "flag": "🇹🇿",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "TZS",
+      "name": "Tanzanian shilling",
+      "symbol": "Sh"
+    },
+    "language": "Swahili, English",
+    "callingCode": "+255",
+    "timezone": "UTC+3"
+  },
+  {
+    "id": 58,
+    "name": "Thailand",
+    "code": "TH",
+    "capital": "Bangkok",
+    "population": 69799978,
+    "area": 513120,
+    "flag": "🇹🇭",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": {
+      "code": "THB",
+      "name": "Thai baht",
+      "symbol": "฿"
+    },
+    "language": "Thai",
+    "callingCode": "+66",
+    "timezone": "UTC+7"
+  },
+  {
+    "id": 59,
+    "name": "Turkey",
+    "code": "TR",
+    "capital": "Ankara",
+    "population": 84339067,
+    "area": 783356,
+    "flag": "🇹🇷",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "TRY",
+      "name": "Turkish lira",
+      "symbol": "₺"
+    },
+    "language": "Turkish",
+    "callingCode": "+90",
+    "timezone": "UTC+3"
+  },
+  {
+    "id": 60,
+    "name": "Ukraine",
+    "code": "UA",
+    "capital": "Kyiv",
+    "population": 43733762,
+    "area": 603550,
+    "flag": "🇺🇦",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "UAH",
+      "name": "Ukrainian hryvnia",
+      "symbol": "₴"
+    },
+    "language": "Ukrainian",
+    "callingCode": "+380",
+    "timezone": "UTC+2"
+  },
+  {
+    "id": 61,
+    "name": "United Arab Emirates",
+    "code": "AE",
+    "capital": "Abu Dhabi",
+    "population": 9890402,
+    "area": 83600,
+    "flag": "🇦🇪",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "AED",
+      "name": "UAE dirham",
+      "symbol": "د.إ"
+    },
+    "language": "Arabic",
+    "callingCode": "+971",
+    "timezone": "UTC+4"
+  },
+  {
+    "id": 62,
+    "name": "United Kingdom",
+    "code": "GB",
+    "capital": "London",
+    "population": 67886011,
+    "area": 242495,
+    "flag": "🇬🇧",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    "language": "English",
+    "callingCode": "+44",
+    "timezone": "UTC"
+  },
+  {
+    "id": 63,
+    "name": "United States",
+    "code": "US",
+    "capital": "Washington D.C.",
+    "population": 331002651,
+    "area": 9833517,
+    "flag": "🇺🇸",
+    "region": "Americas",
+    "subregion": "North America",
+    "currency": {
+      "code": "USD",
+      "name": "US dollar",
+      "symbol": "$"
+    },
+    "language": "English",
+    "callingCode": "+1",
+    "timezone": "UTC-5"
+  },
+  {
+    "id": 64,
+    "name": "Vietnam",
+    "code": "VN",
+    "capital": "Hanoi",
+    "population": 97338579,
+    "area": 331212,
+    "flag": "🇻🇳",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": {
+      "code": "VND",
+      "name": "Vietnamese dong",
+      "symbol": "₫"
+    },
+    "language": "Vietnamese",
+    "callingCode": "+84",
+    "timezone": "UTC+7"
+  }
+]
