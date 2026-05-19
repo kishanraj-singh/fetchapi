@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { AnimationContainer } from "./animation-container";
 import { Logo } from "./logo";
 
@@ -10,9 +11,11 @@ export function Footer() {
             <Logo />
             <span className="space-x-2">
               <span className="text-sm text-muted-foreground">by</span>
-              <span className="text-primary font-semibold cursor-pointer">
-                Kishan Raj Singh
-              </span>
+              <Link href="https://github.com/kishanraj-singh" target="_blank">
+                <span className="text-primary font-semibold cursor-pointer">
+                  Kishan Raj Singh
+                </span>
+              </Link>
             </span>
           </div>
           <div>

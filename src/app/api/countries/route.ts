@@ -1,4 +1,4 @@
-import { getData } from "@/lib/getData";
+import { getData } from "@/lib/get-data";
 import { ApiResponse, Country } from "@/types";
 import { NextResponse } from "next/server";
 

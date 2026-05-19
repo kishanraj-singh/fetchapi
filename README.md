@@ -1,4 +1,4 @@
-# FetchAPI 🚀
+# FetchAPI
 
 > **Free REST APIs for testing and learning — no auth, no signup, just fetch and build.**
 
@@ -7,8 +7,6 @@
 ## What is FetchAPI?
 
 FetchAPI is an open-source project that provides **free fake REST APIs** for developers who are learning or building projects. Instead of setting up a backend just to get some test data, you can directly fetch from FetchAPI and start building your UI.
-
-Inspired by [JSONPlaceholder](https://jsonplaceholder.typicode.com) and [FakeStoreAPI](https://fakestoreapi.com) — but with more data, more filters, and a better developer experience.
 
 ---
 
@@ -174,7 +172,7 @@ GET /api/countries?search=india       Search by name
 
 ## Tech Stack
 
-- **Framework** — [Next.js 15](https://nextjs.org) with App Router
+- **Framework** — [Next.js 15](https://nextjs.org)
 - **Language** — [TypeScript](https://typescriptlang.org)
 - **Styling** — [Tailwind CSS](https://tailwindcss.com)
 - **Data** — Static JSON files (no database)
@@ -199,27 +197,6 @@ npm run dev
 # http://localhost:3000
 ```
 
-That's it — no `.env` file needed, no database setup, nothing.
-
----
-
-## Contributing
-
-Contributions are welcome! If you want to add more APIs, fix bugs or improve the UI:
-
-1. Fork the repo
-2. Create a new branch — `git checkout -b feature/new-api`
-3. Make your changes
-4. Commit — `git commit -m "feat: add new api"`
-5. Push — `git push origin feature/new-api`
-6. Open a Pull Request
-
----
-
 ## License
 
-MIT License — free to use in personal and commercial projects.
-
----
-
-<p align="center">Made by Kishan Raj Singh</p>
+MIT
